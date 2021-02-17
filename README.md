@@ -4,5 +4,5 @@ Course materials for Advanced Statistics course offered at the MSc in Psychologi
 
 Lecture 1: Outline of the planned work + linear regression - https://nvaci.github.io/Lecture_1/Index.html#1
 
-Lecture 2: Generalized Linear Models - INSERT LINK
+Lecture 2: Generalized Linear Models - https://nvaci.github.io/Lecture_2/GLMs#1
 
