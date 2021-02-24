@@ -6,3 +6,4 @@ Lecture 1: Outline of the planned work + linear regression - https://nvaci.githu
 
 Lecture 2: Generalized Linear Models - https://nvaci.github.io/Lecture_2/GLMs#1
 
+Lecture 3: Path models - https://nvaci.github.io/Lecture_3/PathModel.html#1
