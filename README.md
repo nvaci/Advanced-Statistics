@@ -11,3 +11,5 @@ Lecture 3: Path models - https://nvaci.github.io/Lecture_3/PathModel.html#1
 Lecture 4: Confirmatory Factor Analysis - https://nvaci.github.io/Lecture_4/CFA.html#1
 
 Lecture 5: Linear mixed-effect models - https://nvaci.github.io/Lecture_5/Mixed-effect.html#1
+
+Lecture 6: Linear mixed-effect models 2 - https://nvaci.github.io/Lecture_6/Mixed-effect2.html#1
